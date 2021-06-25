@@ -1,2 +1,7 @@
-New line added from Git... 
+New line added from Git... Waitttt
+
 Another piece of Code. 
+
+Thirdn line asdded. 
+
+Modified in Cmd line again .. upload to github. 
